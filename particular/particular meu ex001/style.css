@@ -1,0 +1,42 @@
+@charset "UTF-8";
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body { 
+    background-image: linear-gradient(#D93D1A,blue,#F28B66)
+    
+}
+main {
+    background-color:aqua;
+    width: 600px;
+    border-color: #D93D1A,;
+    border-width: 6px;
+    border-color: black;
+    border-style: ridge;
+
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: #703333;
+}
+hr {
+	height:3px;
+	border-width:3;
+	background: transparent url(imagens/baraHR.png) center no-repeat;
+}
+menu {
+    background-color:aqua;
+    width: 10px;
+    border-color: #D93D1A,;
+    border-width: 6px;
+    border-color: black;
+    border-style: ridge;
+    
+}
+div{
+    display: flex;
+    flex-wrap: nowrap;
+}

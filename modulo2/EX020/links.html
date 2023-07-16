@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>links</title>
+    <style>
+        body{
+            font-family: Georgia, 'Times New Roman', Times, serif;
+        }
+        a{
+            color:blue;
+            text-decoration:none;
+            font-weight: bold;
+        }
+        a:visited{
+            color:green ;
+
+        }
+        a:hover{
+            color: black;
+            text-decoration: underline
+        }
+        .especial{
+            background-color: greenyellow;
+            color: black;
+        }
+        .especial:active{
+            color: greenyellow;
+        }
+        .especial::after{
+            content:'[♫♫]';
+            text-decoration: none;
+            font-weight:normal;
+            color: brown;
+        }
+        .especial::before {
+            content: '[♫♫]';
+            color: brown;
+        }
+        .especial1{
+            background-color: greenyellow;
+            color: black;
+        }
+        .especial1:active{
+            color: rgb(255, 47, 47);
+        }
+        .especial1::after{
+            content:'[♫♫]';
+            text-decoration: none;
+            font-weight:normal;
+            color: rgb(42, 165, 44);
+        }
+        .especial1::before {
+            content: '[♫♫]';
+            color: rgb(42, 165, 44);
+        }
+
+    </style>
+
+</head>
+<body>
+    <h1>personalizando links</h1>
+    <ul>
+        <li><a href="https://www.instagram.com/mboyguilherme/" target="_blank">intagran</a></li>
+        <li><a href="https://www.facebook.com/guilerme.williamdelima/" target="_blank" class="especial">facebook</a></li>
+        <li><a href="https://www.youtube.com/@bandodeloko8382" target="_blank" class="especial1">youtube</a></li>
+    </ul>
+    
+</body>
+</html>

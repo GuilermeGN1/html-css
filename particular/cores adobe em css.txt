@@ -1,0 +1,20 @@
+/* Color Theme Swatches in Hex */
+.Ferrari-308-GTSi-1-hex { color: #BF064A; }
+.Ferrari-308-GTSi-2-hex { color: #8C0738; }
+.Ferrari-308-GTSi-3-hex { color: #04070D; }
+.Ferrari-308-GTSi-4-hex { color: #456A73; }
+.Ferrari-308-GTSi-5-hex { color: #B2BFA4; }
+
+/* Color Theme Swatches in RGBA */
+.Ferrari-308-GTSi-1-rgba { color: rgba(191, 5, 73, 1); }
+.Ferrari-308-GTSi-2-rgba { color: rgba(140, 7, 55, 1); }
+.Ferrari-308-GTSi-3-rgba { color: rgba(3, 6, 12, 1); }
+.Ferrari-308-GTSi-4-rgba { color: rgba(68, 106, 114, 1); }
+.Ferrari-308-GTSi-5-rgba { color: rgba(177, 191, 164, 1); }
+
+/* Color Theme Swatches in HSLA */
+.Ferrari-308-GTSi-1-hsla { color: hsla(337, 94, 38, 1); }
+.Ferrari-308-GTSi-2-hsla { color: hsla(337, 90, 28, 1); }
+.Ferrari-308-GTSi-3-hsla { color: hsla(219, 56, 3, 1); }
+.Ferrari-308-GTSi-4-hsla { color: hsla(191, 25, 36, 1); }
+.Ferrari-308-GTSi-5-hsla { color: hsla(90, 17, 69, 1); }

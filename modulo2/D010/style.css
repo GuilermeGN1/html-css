@@ -1,0 +1,47 @@
+@charset "UTF_08";
+
+body{
+    background-color:#84E1AD;
+
+}
+
+div{
+    background-color: #1a5c38;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+
+}
+nav{
+    text-align: left;
+    text-decoration: none;
+}
+nav > a{
+    color: white;
+    text-decoration: none;
+
+}
+div > h1 {
+    color: white;
+}
+div > p {
+    color: white;
+    text-align: center;
+    
+}
+header{
+    background-color: #FFFFFF;
+    width: 800px;
+    padding: 10px;
+    margin: auto;
+}
+header > div {
+    width: 1000;
+}
+h3{
+    font-family: alpha,Arial, Helvetica, sans-serif;
+    color: #538469;
+    };
+h2{
+    font-family: alpha,Arial, Helvetica, sans-serif;
+}
